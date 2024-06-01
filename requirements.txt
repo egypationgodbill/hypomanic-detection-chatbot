@@ -1,0 +1,6 @@
+dspy
+milvus
+openai
+pandas
+numpy
+langchain
